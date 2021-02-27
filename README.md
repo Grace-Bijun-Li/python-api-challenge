@@ -28,6 +28,6 @@ please refer to the following *three* files:
 
 1. For the relationship between latitudes and max temperatures, as the latitude moves from the equator to the two poles of the earth, **northern hemisphere tends to have greater slope of declination of max temperatures** than the southern hemisphere. This is probably because the analysis is drawing for random **cities** selected. Hence, by common sense, there are a lot more cities located in high northern latitudes than in high southern latitudes. This means **more high northern latitudes data are captured in northern hemisphere**, which then causes the greater declination slope for the max temperature in northern hemisphere.
 
-2. Similar logic may apply to the humidity vs. latitude changes in the two hemispheres. Cities in teh northern hemisphere tend to have greater changes in humidity as latitude changes. Generally, cities in the southern hemisphere have quite stable humidities.
+2. Similar logic may apply to the humidity vs. latitude changes in the two hemispheres. Cities in the northern hemisphere tend to have greater changes in humidity as latitude changes. Generally, cities in the southern hemisphere have quite stable humidities.
 
 3. In terms of wind speeds, both hemispheres have relatively stable wind speeds across the sample cities selected. Latitude changes do **not** impact the wind speed as much.
